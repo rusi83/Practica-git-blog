@@ -6,3 +6,4 @@ quiereo ser programador backend
  Hoy hablaremos de su vida
 
  esta es una pruba de diff
+ prueba reset HEAD
