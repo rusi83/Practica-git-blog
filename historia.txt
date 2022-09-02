@@ -7,3 +7,6 @@ quiereo ser programador backend
 
  esta es una pruba de diff
  prueba reset HEAD
+
+ PRUEBA RESET HARD
+ 
